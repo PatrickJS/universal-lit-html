@@ -1,6 +1,6 @@
 {
   "name": "@universal/lit-html",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Universal Rendering support for lit-html by Polymer",
   "browser": "browser.js",
   "main": "index.js",
