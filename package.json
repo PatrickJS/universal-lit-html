@@ -1,0 +1,24 @@
+{
+  "name": "@universal/lit-html",
+  "version": "1.0.0",
+  "description": "Universal Rendering support for lit-html by Polymer",
+  "browser": "browser.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdi2290/universal-lit-html.git"
+  },
+  "author": "PatrickJS <patrick@gdi2290.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gdi2290/universal-lit-html/issues"
+  },
+  "homepage": "https://github.com/gdi2290/universal-lit-html#readme",
+  "dependencies": {
+    "is-browser": "^2.0.1",
+    "lit-html": "^0.5.0"
+  }
+}
