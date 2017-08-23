@@ -1,1 +1,1 @@
-# server-lit-html
+# Universal lit-html
