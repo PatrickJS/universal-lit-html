@@ -1,2 +1,1 @@
-# quantum-renderer
-The fastest rendering Virtual DOM alternative
+# server-lit-html
